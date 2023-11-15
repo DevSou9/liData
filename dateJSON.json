@@ -1,0 +1,182 @@
+{
+    "pedidos":
+    [
+        
+        {
+            "id": 14,
+            "produto": "Placa gráfica",
+            "aprovado": false,
+            "valorFrete": 33,
+            "valorTotal": 800,
+            "cidade": "São Luís"
+        },
+        {
+            "id": 15,
+            "produto": "Processador",
+            "aprovado": false,
+            "valorFrete": 34,
+            "valorTotal": 850,
+            "cidade": "Teresina"
+        },
+        {
+            "id": 16,
+            "produto": "Memória RAM",
+            "aprovado": true,
+            "valorFrete": 35,
+            "valorTotal": 900,
+            "cidade": "João Pessoa"
+        },
+        {
+            "id": 17,
+            "produto": "Placa-mãe",
+            "aprovado": true,
+            "valorFrete": 50,
+            "valorTotal": 950,
+            "cidade": "Natal"
+        },
+        {
+            "id": 18,
+            "produto": "Armazenamento",
+            "aprovado": false,
+            "valorFrete": 50,
+            "valorTotal": 1000,
+            "cidade": "Aracaju"
+        },
+        {
+            "id": 19,
+            "produto": "Fonte de alimentação",
+            "aprovado": false,
+            "valorFrete": 38,
+            "valorTotal": 300,
+            "cidade": "Vitória"
+        },
+        {
+            "id": 20,
+            "produto": "Mouse",
+            "aprovado": false,
+            "valorFrete": 39,
+            "valorTotal": 100,
+            "cidade": "Florianópolis"
+        },
+        {
+            "id": 21,
+            "produto": "Teclado",
+            "aprovado": false,
+            "valorFrete": 40,
+            "valorTotal": 300,
+            "cidade": "Santos"
+        },
+        {
+            "id": 22,
+            "produto": "Headset",
+            "aprovado": true,
+            "valorFrete": 41,
+            "valorTotal": 250,
+            "cidade": "Piracicaba"
+        },
+        {
+            "id": 23,
+            "produto": "Caixas de som",
+            "aprovado": false,
+            "valorFrete": 42,
+            "valorTotal": 400,
+            "cidade": "Ribeirão Preto"
+        },
+        {
+            "id": 24,
+            "produto": "Webcam",
+            "aprovado": true,
+            "valorFrete": 43,
+            "valorTotal": 250,
+            "cidade": "Sorocaba"
+        },
+        {
+            "id": 25,
+            "produto": "Monitor externo",
+            "aprovado": true,
+            "valorFrete": 44,
+            "valorTotal": 1350,
+            "cidade": "Londrina"
+        },
+        {
+            "id": 26,
+            "produto": "Capa para notebook",
+            "aprovado": true,
+            "valorFrete": 45,
+            "valorTotal": 300,
+            "cidade": "Maringá"
+        },
+        {
+            "id": 27,
+            "produto": "Estojo para notebook",
+            "aprovado": false,
+            "valorFrete": 46,
+            "valorTotal": 400,
+            "cidade": "Campo Grande"
+        },
+        {
+            "id": 28,
+            "produto": "Mousepad",
+            "aprovado": true,
+            "valorFrete": 47,
+            "valorTotal": 30,
+            "cidade": "Cuiabá"
+        },
+        {
+            "id": 29,
+            "produto": "Suporte para monitor",
+            "aprovado": true,
+            "valorFrete": 48,
+            "valorTotal": 250,
+            "cidade": "Vitória da Conquista"
+        },
+        {
+            "id": 30,
+            "produto": "Suporte para notebook",
+            "aprovado": true,
+            "valorFrete": 49,
+            "valorTotal": 250,
+            "cidade": "São Gonçalo"
+        },
+        {
+            "id": 31,
+            "produto": "Sistema operacional",
+            "aprovado": false,
+            "valorFrete": 50,
+            "valorTotal": 400,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "id": 32,
+            "produto": "Softwares de escritório",
+            "aprovado": false,
+            "valorFrete": 20,
+            "valorTotal": 600,
+            "cidade": "São Paulo"
+        },
+        {
+            "id": 33,
+            "produto": "Softwares de edição de imagens",
+            "aprovado": false,
+            "valorFrete": 30,
+            "valorTotal": 200,
+            "cidade": "Porto Alegre"
+        },
+        {
+            "id": 34,
+            "produto": "Softwares de edição de vídeos",
+            "aprovado": false,
+            "valorFrete": 40,
+            "valorTotal": 250,
+            "cidade": "Rio de Janeiro"
+        },
+        {
+            "id": 35,
+            "produto": "Softwares de jogos",
+            "aprovado": true,
+            "valorFrete": 10,
+            "valorTotal": 300,
+            "cidade": "São Paulo"
+        }
+    ]
+}
